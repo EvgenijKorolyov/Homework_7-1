@@ -1,0 +1,35 @@
+.main {
+    margin: auto;
+    width: 1000px;
+}
+
+.header {
+    margin: 30px 0 0 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header img {
+    width: 260px;
+}
+
+.footer {
+    margin: 30px 0 0 0;
+}
+
+.fullSizePhoto {
+    display: flex;
+    justify-content: center;
+
+}
+
+.footer img {
+    width: 700px;
+    height: 525px;
+}
+
+.footer p {
+    margin: 30px 0 0 0;
+    text-align: justify;
+}
+
